@@ -1,0 +1,211 @@
+store_id,market,unit_type,occupancy_pct,current_rate,competitor_median_rate,competitor_gap_pct,lead_pace_index,seasonality_index,elasticity,recommended_action,recommended_rate,rate_change_pct,expected_annual_revenue_delta,confidence_score,priority_score,occupied_units,vacant_units
+STO025,Los Angeles CA,10x15 Drive-Up,99,229,279,-17.9,126.5,111.4,-0.92,Raise street rate,249,8.7,13215,88.8,56.1,122,2
+STO025,Los Angeles CA,10x20 Drive-Up,97.8,314,383,-18.0,124.7,111.4,-1.47,Raise street rate,338,7.8,15053,88.8,55.7,141,3
+STO008,Dallas TX,10x20 Drive-Up,74.9,311,298,4.4,64.4,111.4,-1.21,Protect occupancy,286,-8,27857,72.8,52.8,182,61
+STO035,Tampa FL,10x20 Drive-Up,76.6,378,326,16.0,97.4,111.4,-1.1,Hold rate and test promo,372,-1.5,14081,78.9,48.6,166,50
+STO025,Los Angeles CA,10x10 Climate,98.7,165,201,-17.9,129.0,111.8,-0.87,Raise street rate,179,8.6,7048,88.8,48.2,92,2
+STO025,Los Angeles CA,5x10 Climate,99.0,92,112,-17.9,146.0,112.0,-0.58,Raise street rate,100,9,4999,88.8,46.3,105,2
+STO011,Los Angeles CA,10x20 Drive-Up,74.2,334,301,11.0,79.6,111.4,-1.33,Protect occupancy,308,-7.7,14907,78.9,45.5,86,29
+STO015,Philadelphia PA,5x5 Interior,61.0,53,51,3.9,121.7,112.0,-0.42,Hold with watchlist,53,0,0,82.3,45.0,132,84
+STO033,Miami FL,10x15 Drive-Up,99,262,251,4.4,117.2,111.4,-1.1,Raise street rate,283,7.9,14132,83.1,38.6,131,2
+STO011,Los Angeles CA,10x15 Drive-Up,75.1,244,220,10.9,75.8,111.4,-0.94,Protect occupancy,226,-7.5,10046,78.3,38.1,107,35
+STO008,Dallas TX,5x5 Interior,66.9,45,43,4.7,60.5,112.0,-0.77,Protect occupancy,41,-8,3017,72.1,37.9,146,72
+STO040,San Diego CA,10x20 Drive-Up,97.1,357,372,-4.0,133.4,111.4,-1.04,Raise street rate,385,7.7,17016,80.1,37.8,116,3
+STO028,Charlotte NC,5x10 Climate,98.4,96,108,-11.1,125.0,112.0,-0.57,Raise street rate,104,8.2,8183,77.4,37.2,170,2
+STO035,Tampa FL,10x15 Drive-Up,79.2,276,238,16.0,95.5,111.4,-0.88,Hold rate and test promo,272,-1.5,8173,78.6,37.2,143,37
+STO006,Orlando FL,10x20 Drive-Up,75.0,313,328,-4.6,91.4,111.4,-1.02,Protect occupancy,292,-6.7,14742,89.9,37.1,123,40
+STO008,Dallas TX,10x15 Drive-Up,70.0,227,217,4.6,75.5,111.4,-1.06,Protect occupancy,209,-8,6308,74.5,36.3,52,22
+STO032,Atlanta GA,10x15 Drive-Up,97.5,244,261,-6.5,117.9,111.4,-1.08,Raise street rate,262,7.3,14705,90.6,36.1,158,3
+STO004,Atlanta GA,10x20 Drive-Up,77.4,375,329,14.0,95.1,111.4,-1.05,Hold rate and test promo,369,-1.5,6693,80.6,35.2,82,23
+STO011,Los Angeles CA,5x10 Climate,72.2,98,88,11.4,59.8,112.0,-0.72,Protect occupancy,90,-8,1600,75.7,34.1,45,17
+STO020,Orlando FL,10x15 Drive-Up,76.6,226,243,-7.0,84.5,111.4,-1.34,Protect occupancy,212,-6.4,14172,81.2,33.7,146,44
+STO015,Philadelphia PA,10x10 Climate,67.5,191,183,4.4,113.0,111.8,-0.79,Hold with watchlist,191,0,0,82.2,33.4,89,42
+STO025,Los Angeles CA,5x5 Interior,94.8,46,56,-17.9,129.8,112.0,-0.37,Raise street rate,49,5.9,1612,88.8,33.0,84,4
+STO035,Tampa FL,10x10 Climate,80.7,199,171,16.4,102.7,111.8,-1.08,Hold rate and test promo,196,-1.5,5481,79.3,32.0,130,31
+STO029,Philadelphia PA,10x10 Climate,97.8,173,185,-6.5,110.1,111.8,-1.13,Raise street rate,185,7.0,10572,80.4,31.7,175,4
+STO010,Phoenix AZ,5x5 Interior,68.4,43,46,-6.5,72.1,112.0,-0.65,Fix source before pricing,43,0,0,68.0,31.6,48,22
+STO028,Charlotte NC,10x15 Drive-Up,97.2,239,269,-11.2,118.6,111.4,-1.32,Raise street rate,256,7.1,5175,77.4,31.2,64,2
+STO008,Dallas TX,10x10 Climate,72.5,163,156,4.5,65.3,111.8,-0.84,Protect occupancy,150,-8,5639,72.9,30.9,85,32
+STO029,Philadelphia PA,10x20 Drive-Up,99,330,352,-6.2,102.9,111.4,-1.11,Narrow competitor gap,341,3.2,7522,80.5,30.8,133,2
+STO003,Northern New Jersey,10x20 Drive-Up,99,352,314,12.1,82.8,111.4,-1.41,Hold with watchlist,352,0,0,80.7,30.7,60,2
+STO040,San Diego CA,10x10 Climate,99,188,196,-4.1,132.9,111.8,-0.91,Raise street rate,205,9,7119,80.1,30.4,77,2
+STO019,Miami FL,10x20 Drive-Up,99,373,334,11.7,105.1,111.4,-1.17,Hold with watchlist,373,0,0,84.5,30.0,107,2
+STO013,Chicago IL,10x10 Climate,73.2,200,181,10.5,116.2,111.8,-1.13,Hold with watchlist,200,0,0,81.0,28.9,170,62
+STO017,Northern New Jersey,5x10 Climate,99.0,98,106,-7.5,116.9,112.0,-1.0,Raise street rate,106,8.2,5140,87.9,28.9,122,2
+STO035,Tampa FL,5x10 Climate,79.5,111,96,15.6,99.5,112.0,-0.94,Hold rate and test promo,109,-1.5,1638,79.3,28.3,72,18
+STO037,Houston TX,10x20 Drive-Up,70.5,340,340,0.0,98.2,111.4,-1.51,Hold with watchlist,340,0,0,81.1,27.8,65,27
+STO032,Atlanta GA,10x20 Drive-Up,99,335,359,-6.7,98.7,111.4,-1.15,Narrow competitor gap,346,3.3,4727,90.3,27.6,86,2
+STO037,Houston TX,5x10 Climate,70.8,100,100,0.0,98.5,112.0,-1.02,Hold with watchlist,100,0,0,81.1,27.3,62,25
+STO040,San Diego CA,10x15 Drive-Up,97.0,261,272,-4.0,142.5,111.4,-1.01,Raise street rate,282,8.1,8274,80.1,27.2,75,2
+STO011,Los Angeles CA,5x5 Interior,75.8,48,43,11.6,64.9,112.0,-0.48,Protect occupancy,44,-7.7,697,76.4,27.1,61,19
+STO003,Northern New Jersey,10x10 Climate,97.2,185,165,12.1,86.2,111.8,-0.96,Hold with watchlist,185,0,0,81.3,26.7,169,4
+STO033,Miami FL,10x20 Drive-Up,96.8,359,344,4.4,106.6,111.4,-1.12,Raise street rate,380,5.8,8013,83.1,26.5,75,2
+STO028,Charlotte NC,10x20 Drive-Up,92.8,328,369,-11.1,129.7,111.4,-1.17,Narrow competitor gap,342,4.2,9409,77.4,26.4,134,10
+STO032,Atlanta GA,5x10 Climate,99,98,105,-6.7,108.5,112.0,-0.9,Raise street rate,106,7.8,3747,90.6,26.4,85,2
+STO014,Charlotte NC,10x20 Drive-Up,93.8,374,353,5.9,125.4,111.4,-1.02,Raise street rate,391,4.5,13298,80.6,26.1,149,9
+STO018,Atlanta GA,10x10 Climate,75.6,175,167,4.8,75.3,111.8,-0.99,Protect occupancy,162,-7.2,6307,78.8,26.1,94,30
+STO009,Houston TX,10x10 Climate,71.6,189,179,5.6,122.0,111.8,-0.79,Hold with watchlist,189,0,0,78.1,26.0,142,56
+STO032,Atlanta GA,10x10 Climate,99,176,188,-6.4,102.1,111.8,-1.17,Narrow competitor gap,182,3.3,3408,90.6,26.0,112,2
+STO037,Houston TX,10x15 Drive-Up,71.7,248,248,0.0,95.8,111.4,-1.21,Hold with watchlist,248,0,0,80.7,25.7,50,19
+STO011,Los Angeles CA,10x10 Climate,79.3,175,158,10.8,73.1,111.8,-1.27,Protect occupancy,165,-5.7,5733,77.9,25.2,95,24
+STO040,San Diego CA,5x10 Climate,97.1,105,109,-3.7,140.3,112.0,-0.68,Raise street rate,113,8.1,5842,80.2,24.6,127,3
+STO006,Orlando FL,5x10 Climate,74.7,92,96,-4.2,91.8,112.0,-1.0,Protect occupancy,86,-6.9,3555,90.0,24.5,98,33
+STO037,Houston TX,10x10 Climate,72.5,178,178,0.0,105.0,111.8,-1.03,Hold with watchlist,178,0,0,81.4,24.4,111,42
+STO023,Houston TX,5x5 Interior,97.1,51,46,10.9,80.9,112.0,-0.46,Fix source before pricing,51,0,0,69.8,24.3,93,2
+STO029,Philadelphia PA,10x15 Drive-Up,97.9,241,257,-6.2,98.8,111.4,-1.17,Narrow competitor gap,249,3.2,3950,80.3,24.2,98,2
+STO006,Orlando FL,10x10 Climate,77.9,164,172,-4.7,72.9,111.8,-0.79,Protect occupancy,154,-6.4,8126,86.9,24.1,170,48
+STO009,Houston TX,10x15 Drive-Up,78.1,263,249,5.6,94.4,111.4,-1.02,Protect occupancy,249,-5.2,8419,77.1,24.1,106,29
+STO009,Houston TX,5x10 Climate,72.7,106,100,6.0,113.1,112.0,-0.55,Hold with watchlist,106,0,0,78.0,23.9,140,52
+STO019,Miami FL,10x10 Climate,96.3,196,176,11.4,90.6,111.8,-0.96,Hold with watchlist,196,0,0,83.0,23.4,107,4
+STO023,Houston TX,10x10 Climate,95.6,185,165,12.1,77.7,111.8,-1.16,Fix source before pricing,185,0,0,69.1,23.2,150,6
+STO015,Philadelphia PA,5x10 Climate,73.2,107,103,3.9,116.4,112.0,-0.57,Hold with watchlist,107,0,0,82.3,23.1,156,57
+STO009,Houston TX,5x5 Interior,73.2,52,49,6.1,117.9,112.0,-0.72,Hold with watchlist,52,0,0,78.0,23.0,158,57
+STO038,Phoenix AZ,5x5 Interior,73.3,51,49,4.1,95.2,112.0,-0.52,Hold with watchlist,51,0,0,83.6,22.9,109,39
+STO002,Boston MA,10x10 Climate,73.4,189,193,-2.1,131.7,111.8,-1.14,Hold with watchlist,189,0,0,85.8,22.8,156,56
+STO020,Orlando FL,5x5 Interior,74.5,45,48,-6.2,69.0,112.0,-0.81,Protect occupancy,41,-8,1520,78.9,22.5,94,32
+STO029,Philadelphia PA,5x10 Climate,98.5,97,104,-6.7,101.3,112.0,-0.57,Narrow competitor gap,100,3.3,1315,80.4,22.5,74,2
+STO002,Boston MA,10x15 Drive-Up,73.6,262,268,-2.2,126.7,111.4,-1.4,Hold with watchlist,262,0,0,85.8,22.3,121,43
+STO010,Phoenix AZ,5x10 Climate,73.6,87,93,-6.5,89.6,112.0,-0.8,Fix source before pricing,87,0,0,70.8,22.3,115,41
+STO033,Miami FL,10x10 Climate,97.0,189,181,4.4,105.5,111.8,-0.98,Raise street rate,200,5.9,3839,83.1,22.1,66,2
+STO021,Tampa FL,10x15 Drive-Up,99,232,242,-4.1,74.4,111.4,-1.38,Hold with watchlist,232,0,0,79.3,22.0,118,2
+STO033,Miami FL,5x5 Interior,99,52,50,4.0,103.7,112.0,-0.63,Hold with watchlist,52,0,0,83.2,22.0,65,2
+STO033,Miami FL,5x10 Climate,99,105,100,5.0,102.1,112.0,-1.05,Hold with watchlist,105,0,0,83.0,22.0,119,2
+STO003,Northern New Jersey,10x15 Drive-Up,94.9,257,229,12.2,94.1,111.4,-1.11,Hold with watchlist,257,0,0,82.5,21.8,155,8
+STO021,Tampa FL,10x10 Climate,98.9,167,174,-4.0,92.3,111.8,-1.17,Hold with watchlist,167,0,0,82.1,21.8,179,2
+STO021,Tampa FL,10x20 Drive-Up,98.9,318,331,-3.9,96.2,111.4,-1.36,Hold with watchlist,318,0,0,82.8,21.8,121,2
+STO030,Boston MA,10x15 Drive-Up,73.9,253,250,1.2,107.2,111.4,-1.18,Hold with watchlist,253,0,0,87.0,21.7,84,29
+STO002,Boston MA,5x5 Interior,74.1,52,53,-1.9,138.0,112.0,-0.7,Hold with watchlist,52,0,0,85.9,21.4,132,46
+STO009,Houston TX,10x20 Drive-Up,74.1,360,341,5.6,102.6,111.4,-1.43,Hold with watchlist,360,0,0,78.1,21.4,69,24
+STO013,Chicago IL,5x5 Interior,77.0,55,50,10.0,119.7,112.0,-0.65,Hold with watchlist,55,0,0,81.1,21.3,176,52
+STO024,Phoenix AZ,10x10 Climate,98.7,174,178,-2.2,74.3,111.8,-0.94,Hold with watchlist,174,0,0,87.9,21.3,94,2
+STO010,Phoenix AZ,10x15 Drive-Up,74.2,217,233,-6.9,81.2,111.4,-0.92,Fix source before pricing,217,0,0,69.4,21.2,102,35
+STO017,Northern New Jersey,10x20 Drive-Up,92.6,334,362,-7.7,112.4,111.4,-1.07,Narrow competitor gap,346,3.5,10080,87.8,21.1,162,12
+STO037,Houston TX,5x5 Interior,75.1,49,49,0.0,93.4,112.0,-0.71,Protect occupancy,46,-6.6,958,80.3,20.8,64,21
+STO003,Northern New Jersey,5x5 Interior,95.4,51,46,10.9,88.6,112.0,-0.58,Hold with watchlist,51,0,0,81.9,20.7,141,6
+STO004,Atlanta GA,10x10 Climate,85.0,197,173,13.9,101.7,111.8,-1.14,Hold rate and test promo,194,-1.5,6076,81.4,20.6,153,27
+STO015,Philadelphia PA,10x20 Drive-Up,74.7,363,348,4.3,110.5,111.4,-1.53,Hold with watchlist,363,0,0,82.2,20.3,64,21
+STO001,Philadelphia PA,5x5 Interior,77.0,51,47,8.5,88.6,112.0,-0.84,Protect occupancy,48,-6.0,1198,84.1,20.2,78,23
+STO001,Philadelphia PA,10x10 Climate,81.3,186,171,8.8,94.8,111.8,-1.16,Protect occupancy,179,-3.7,7250,85.1,19.9,149,34
+STO017,Northern New Jersey,10x10 Climate,94.4,176,191,-7.9,108.3,111.8,-0.88,Raise street rate,184,4.6,5373,87.8,19.7,123,7
+STO004,Atlanta GA,5x5 Interior,91.8,54,47,14.9,99.7,112.0,-0.88,Hold with watchlist,54,0,0,81.2,19.5,148,13
+STO013,Chicago IL,5x10 Climate,78.0,111,101,9.9,119.1,112.0,-0.6,Hold with watchlist,111,0,0,81.1,19.3,135,38
+STO006,Orlando FL,5x5 Interior,75.9,45,47,-4.3,89.6,112.0,-0.77,Protect occupancy,42,-6.4,615,89.7,19.0,46,14
+STO003,Northern New Jersey,5x10 Climate,93.6,103,92,12.0,84.5,112.0,-1.08,Hold with watchlist,103,0,0,81.1,18.5,119,8
+STO010,Phoenix AZ,10x20 Drive-Up,75.7,297,319,-6.9,72.2,111.4,-1.24,Fix source before pricing,297,0,0,68.0,18.5,96,30
+STO035,Tampa FL,5x5 Interior,86.0,55,47,17.0,101.2,112.0,-0.52,Hold rate and test promo,54,-1.5,1261,79.2,18.5,129,21
+STO001,Philadelphia PA,5x10 Climate,77.2,104,96,8.3,103.8,112.0,-0.86,Hold with watchlist,104,0,0,86.0,18.2,121,35
+STO010,Phoenix AZ,10x10 Climate,75.9,156,167,-6.6,83.3,111.8,-0.92,Fix source before pricing,156,0,0,69.8,18.2,151,47
+STO006,Orlando FL,10x15 Drive-Up,80.1,228,239,-4.6,79.2,111.4,-1.27,Protect occupancy,217,-5.0,6323,87.9,18.0,87,21
+STO030,Boston MA,10x20 Drive-Up,76.3,347,343,1.2,99.2,111.4,-1.04,Hold with watchlist,347,0,0,86.9,17.5,118,36
+STO022,Dallas TX,5x5 Interior,78.0,48,45,6.7,80.0,112.0,-0.88,Protect occupancy,45,-6.0,2497,71.6,17.4,176,49
+STO019,Miami FL,5x5 Interior,92.4,54,48,12.5,119.7,112.0,-0.43,Hold with watchlist,54,0,0,84.3,16.9,58,4
+STO019,Miami FL,5x10 Climate,93.4,109,98,11.2,93.1,112.0,-0.88,Hold with watchlist,109,0,0,83.5,16.9,107,7
+STO002,Boston MA,5x10 Climate,76.7,105,107,-1.9,119.7,112.0,-0.7,Hold with watchlist,105,0,0,85.9,16.8,48,14
+STO008,Dallas TX,5x10 Climate,77.7,91,87,4.6,79.6,112.0,-0.78,Protect occupancy,85,-6.1,1439,75.2,16.7,57,16
+STO024,Phoenix AZ,10x20 Drive-Up,96.4,330,337,-2.1,85.4,111.4,-1.54,Hold with watchlist,330,0,0,89.7,16.4,54,2
+STO041,Chicago IL,10x10 Climate,93.7,178,192,-7.3,114.5,111.8,-1.05,Raise street rate,186,4.4,4379,86.9,16.1,105,7
+STO004,Atlanta GA,10x15 Drive-Up,85.4,274,241,13.7,101.9,111.4,-1.34,Hold rate and test promo,270,-1.5,3051,81.5,16.0,54,9
+STO005,Miami FL,10x20 Drive-Up,93.0,340,349,-2.6,110.0,111.4,-1.42,Raise street rate,353,3.7,5201,82.7,14.9,86,6
+STO031,Northern New Jersey,5x10 Climate,77.7,102,100,2.0,99.3,112.0,-0.66,Hold with watchlist,102,0,0,87.9,14.9,147,42
+STO030,Boston MA,10x10 Climate,77.8,182,180,1.1,100.9,111.8,-1.3,Hold with watchlist,182,0,0,87.0,14.8,80,22
+STO034,Orlando FL,10x20 Drive-Up,95.7,334,345,-3.2,92.6,111.4,-1.19,Hold with watchlist,334,0,0,80.8,14.8,63,2
+STO017,Northern New Jersey,5x5 Interior,94.3,49,53,-7.5,121.0,112.0,-0.45,Raise street rate,52,5.2,1593,87.9,14.5,84,5
+STO040,San Diego CA,5x5 Interior,94.5,52,54,-3.7,117.2,112.0,-0.39,Raise street rate,55,5.1,2048,80.2,14.5,107,6
+STO015,Philadelphia PA,10x15 Drive-Up,78.0,265,254,4.3,119.7,111.4,-1.31,Hold with watchlist,265,0,0,82.2,14.3,190,53
+STO004,Atlanta GA,5x10 Climate,90.5,110,97,13.4,102.8,112.0,-0.81,Hold with watchlist,110,0,0,81.5,14.2,164,17
+STO022,Dallas TX,5x10 Climate,80.6,98,92,6.5,75.8,112.0,-1.02,Protect occupancy,93,-5.0,3785,70.9,14.2,141,33
+STO032,Atlanta GA,5x5 Interior,94.5,49,52,-5.8,112.9,112.0,-0.5,Raise street rate,51,4.9,1642,90.7,14.1,138,7
+STO013,Chicago IL,10x20 Drive-Up,81.8,380,344,10.5,113.8,111.4,-1.41,Hold with watchlist,380,0,0,81.0,13.4,125,27
+STO029,Philadelphia PA,5x5 Interior,94.6,48,51,-5.9,107.1,112.0,-0.44,Raise street rate,50,4.7,809,80.5,13.3,66,3
+STO021,Tampa FL,5x10 Climate,94.8,93,97,-4.1,89.3,112.0,-0.69,Hold with watchlist,93,0,0,81.7,12.8,104,5
+STO024,Phoenix AZ,5x5 Interior,94.6,48,49,-2.0,90.6,112.0,-0.5,Hold with watchlist,48,0,0,90.6,12.4,86,4
+STO041,Chicago IL,10x15 Drive-Up,93.0,248,268,-7.5,117.9,111.4,-1.3,Raise street rate,258,4.1,2220,86.9,12.3,47,3
+STO036,Dallas TX,5x10 Climate,80.5,94,99,-5.1,93.1,112.0,-0.81,Protect occupancy,90,-4.2,1588,86.7,11.7,72,17
+STO028,Charlotte NC,5x5 Interior,90.4,48,54,-11.1,120.4,112.0,-0.48,Narrow competitor gap,50,4.2,1007,77.4,11.4,82,8
+STO036,Dallas TX,5x5 Interior,79.9,47,50,-6.0,101.7,112.0,-0.75,Hold with watchlist,47,0,0,87.7,11.0,135,34
+STO034,Orlando FL,5x10 Climate,80.1,98,101,-3.0,108.0,112.0,-0.71,Hold with watchlist,98,0,0,82.0,10.7,184,45
+STO042,Charlotte NC,10x10 Climate,93.0,179,180,-0.6,105.9,111.8,-1.17,Raise street rate,185,3.5,1441,75.0,10.5,49,3
+STO021,Tampa FL,5x5 Interior,93.6,46,48,-4.2,91.3,112.0,-0.61,Hold with watchlist,46,0,0,82.0,10.1,182,12
+STO007,Tampa FL,10x20 Drive-Up,93.3,317,329,-3.6,82.9,111.4,-1.18,Hold with watchlist,317,0,0,82.9,9.4,81,5
+STO023,Houston TX,5x10 Climate,89.5,103,92,12.0,88.2,112.0,-0.58,Fix source before pricing,103,0,0,70.8,9.4,120,14
+STO026,San Diego CA,5x10 Climate,81.1,111,107,3.7,136.2,112.0,-0.87,Hold with watchlist,111,0,0,88.0,8.8,159,37
+STO036,Dallas TX,10x10 Climate,81.2,169,178,-5.1,102.1,111.8,-0.98,Hold with watchlist,169,0,0,87.8,8.7,95,22
+STO014,Charlotte NC,10x10 Climate,92.7,197,186,5.9,141.2,111.8,-1.22,Hold with watchlist,197,0,0,80.6,8.1,88,6
+STO023,Houston TX,10x15 Drive-Up,86.3,256,229,11.8,84.7,111.4,-1.05,Fix source before pricing,256,0,0,70.3,8.1,174,27
+STO023,Houston TX,10x20 Drive-Up,87.3,351,314,11.8,82.4,111.4,-1.24,Fix source before pricing,351,0,0,69.9,8.1,121,17
+STO005,Miami FL,5x5 Interior,81.5,49,50,-2.0,121.7,112.0,-0.46,Hold with watchlist,49,0,0,82.8,8.0,136,30
+STO013,Chicago IL,10x15 Drive-Up,84.8,277,251,10.4,121.4,111.4,-1.12,Hold with watchlist,277,0,0,81.0,7.9,44,7
+STO039,Los Angeles CA,10x20 Drive-Up,92.5,349,371,-5.9,121.3,111.4,-1.08,Hold with watchlist,349,0,0,84.9,7.7,90,7
+STO019,Miami FL,10x15 Drive-Up,87.1,272,244,11.5,104.9,111.4,-1.09,Hold with watchlist,272,0,0,84.5,7.6,168,24
+STO024,Phoenix AZ,5x10 Climate,92.3,97,99,-2.0,94.6,112.0,-0.97,Hold with watchlist,97,0,0,91.2,7.2,49,4
+STO012,San Diego CA,10x20 Drive-Up,82.0,325,334,-2.7,101.6,111.4,-1.41,Hold with watchlist,325,0,0,86.9,7.1,82,17
+STO027,Chicago IL,5x5 Interior,82.0,48,46,4.3,88.9,112.0,-0.6,Hold with watchlist,48,0,0,79.5,7.1,121,26
+STO007,Tampa FL,10x10 Climate,92.2,167,173,-3.5,72.5,111.8,-0.8,Hold with watchlist,167,0,0,81.3,7.0,146,12
+STO020,Orlando FL,5x10 Climate,82.5,91,98,-7.1,82.0,112.0,-0.79,Hold with watchlist,91,0,0,80.8,6.6,67,14
+STO028,Charlotte NC,10x10 Climate,88.6,172,193,-10.9,119.2,111.8,-0.91,Hold with watchlist,172,0,0,77.5,6.6,48,6
+STO031,Northern New Jersey,5x5 Interior,82.3,50,49,2.0,102.1,112.0,-0.4,Hold with watchlist,50,0,0,88.0,6.6,149,31
+STO038,Phoenix AZ,10x20 Drive-Up,82.5,353,338,4.4,96.6,111.4,-1.13,Hold with watchlist,353,0,0,83.8,6.4,189,40
+STO007,Tampa FL,10x15 Drive-Up,82.5,232,241,-3.7,79.3,111.4,-1.31,Hold with watchlist,232,0,0,82.3,6.3,66,14
+STO016,Boston MA,10x20 Drive-Up,91.9,352,350,0.6,104.4,111.4,-1.04,Hold with watchlist,352,0,0,89.3,6.3,49,4
+STO007,Tampa FL,5x5 Interior,91.6,46,48,-4.2,80.9,112.0,-0.65,Hold with watchlist,46,0,0,82.5,5.8,175,15
+STO027,Chicago IL,5x10 Climate,91.6,98,95,3.2,87.4,112.0,-0.75,Hold with watchlist,98,0,0,79.4,5.8,109,9
+STO016,Boston MA,10x15 Drive-Up,82.9,257,255,0.8,108.2,111.4,-1.15,Hold with watchlist,257,0,0,89.2,5.6,62,12
+STO018,Atlanta GA,5x5 Interior,83.1,48,46,4.3,84.4,112.0,-0.74,Hold with watchlist,48,0,0,80.3,5.3,170,34
+STO038,Phoenix AZ,10x10 Climate,83.1,186,178,4.5,91.1,111.8,-0.79,Hold with watchlist,186,0,0,82.9,5.3,137,27
+STO016,Boston MA,5x10 Climate,83.2,103,102,1.0,116.9,112.0,-0.88,Hold with watchlist,103,0,0,89.2,5.1,179,36
+STO026,San Diego CA,10x20 Drive-Up,83.2,378,365,3.6,124.7,111.4,-1.09,Hold with watchlist,378,0,0,88.0,5.0,130,26
+STO027,Chicago IL,10x15 Drive-Up,91.2,244,236,3.4,84.8,111.4,-1.23,Hold with watchlist,244,0,0,79.0,4.9,122,11
+STO012,San Diego CA,5x5 Interior,83.3,47,48,-2.1,89.8,112.0,-0.87,Hold with watchlist,47,0,0,85.3,4.8,189,37
+STO022,Dallas TX,10x20 Drive-Up,83.3,334,315,6.0,90.4,111.4,-1.37,Hold with watchlist,334,0,0,73.4,4.8,70,14
+STO041,Chicago IL,5x5 Interior,83.9,49,53,-7.5,132.4,112.0,-0.86,Hold with watchlist,49,0,0,86.9,4.7,63,12
+STO024,Phoenix AZ,10x15 Drive-Up,91.0,241,246,-2.0,90.5,111.4,-0.89,Hold with watchlist,241,0,0,90.6,4.4,150,14
+STO022,Dallas TX,10x10 Climate,83.7,176,166,6.0,82.0,111.8,-1.13,Hold with watchlist,176,0,0,72.0,4.1,101,19
+STO014,Charlotte NC,5x10 Climate,90.8,110,104,5.8,115.6,112.0,-0.8,Hold with watchlist,110,0,0,80.6,4.0,103,10
+STO018,Atlanta GA,5x10 Climate,83.8,98,93,5.4,89.6,112.0,-0.64,Hold with watchlist,98,0,0,80.9,4.0,76,14
+STO018,Atlanta GA,10x15 Drive-Up,83.8,244,233,4.7,85.8,111.4,-1.05,Hold with watchlist,244,0,0,80.4,4.0,153,29
+STO022,Dallas TX,10x15 Drive-Up,83.8,244,230,6.1,72.2,111.4,-0.9,Hold with watchlist,244,0,0,70.5,4.0,157,30
+STO042,Charlotte NC,5x5 Interior,83.8,50,50,0.0,99.3,112.0,-0.52,Hold with watchlist,50,0,0,75.0,3.9,144,27
+STO030,Boston MA,5x10 Climate,84.0,102,101,1.0,103.8,112.0,-0.64,Hold with watchlist,102,0,0,87.0,3.6,184,35
+STO030,Boston MA,5x5 Interior,84.1,50,49,2.0,116.2,112.0,-0.36,Hold with watchlist,50,0,0,86.8,3.4,92,17
+STO005,Miami FL,10x10 Climate,84.2,178,183,-2.7,109.3,111.8,-1.22,Hold with watchlist,178,0,0,82.7,3.2,166,31
+STO007,Tampa FL,5x10 Climate,90.4,93,96,-3.1,85.4,112.0,-0.69,Hold with watchlist,93,0,0,83.4,3.1,95,10
+STO039,Los Angeles CA,10x10 Climate,90.4,183,194,-5.7,124.4,111.8,-1.21,Hold with watchlist,183,0,0,84.9,3.1,108,11
+STO005,Miami FL,5x10 Climate,84.3,100,103,-2.9,106.6,112.0,-0.69,Hold with watchlist,100,0,0,82.7,3.0,117,21
+STO001,Philadelphia PA,10x20 Drive-Up,89.1,354,326,8.6,94.9,111.4,-1.37,Hold with watchlist,354,0,0,85.1,2.9,81,9
+STO018,Atlanta GA,10x20 Drive-Up,84.5,334,318,5.0,82.9,111.4,-1.15,Hold with watchlist,334,0,0,79.9,2.7,69,12
+STO026,San Diego CA,5x5 Interior,84.6,55,53,3.8,141.1,112.0,-0.48,Hold with watchlist,55,0,0,88.0,2.6,55,10
+STO001,Philadelphia PA,10x15 Drive-Up,86.2,258,238,8.4,108.6,111.4,-1.34,Hold with watchlist,258,0,0,86.0,2.4,69,11
+STO039,Los Angeles CA,5x5 Interior,84.8,51,54,-5.6,127.1,112.0,-0.52,Hold with watchlist,51,0,0,85.0,2.1,74,13
+STO012,San Diego CA,10x15 Drive-Up,84.9,237,243,-2.5,87.2,111.4,-1.28,Hold with watchlist,237,0,0,84.9,1.9,186,33
+STO036,Dallas TX,10x15 Drive-Up,85.0,235,248,-5.2,87.7,111.4,-0.97,Hold with watchlist,235,0,0,85.8,1.8,182,32
+STO031,Northern New Jersey,10x10 Climate,89.8,183,179,2.2,112.4,111.8,-0.81,Hold with watchlist,183,0,0,87.9,1.7,141,16
+STO017,Northern New Jersey,10x15 Drive-Up,86.5,244,265,-7.9,121.8,111.4,-1.13,Hold with watchlist,244,0,0,87.8,1.6,94,14
+STO038,Phoenix AZ,10x15 Drive-Up,85.1,258,247,4.5,101.2,111.4,-0.97,Hold with watchlist,258,0,0,84.3,1.6,162,28
+STO027,Chicago IL,10x10 Climate,85.2,176,170,3.5,97.4,111.8,-1.17,Hold with watchlist,176,0,0,81.0,1.4,190,32
+STO014,Charlotte NC,10x15 Drive-Up,85.3,273,258,5.8,122.9,111.4,-1.29,Hold with watchlist,273,0,0,80.6,1.2,45,7
+STO031,Northern New Jersey,10x15 Drive-Up,89.4,254,248,2.4,100.4,111.4,-1.43,Hold with watchlist,254,0,0,87.9,0.9,151,17
+STO034,Orlando FL,5x5 Interior,89.4,48,50,-4.0,94.5,112.0,-0.79,Hold with watchlist,48,0,0,81.0,0.8,132,15
+STO042,Charlotte NC,5x10 Climate,89.4,100,100,0.0,100.6,112.0,-0.92,Hold with watchlist,100,0,0,75.1,0.8,90,10
+STO041,Chicago IL,5x10 Climate,87.0,100,108,-7.4,132.9,112.0,-0.86,Hold with watchlist,100,0,0,86.9,0.7,115,17
+STO005,Miami FL,10x15 Drive-Up,85.6,248,254,-2.4,109.2,111.4,-1.18,Hold with watchlist,248,0,0,82.8,0.6,64,10
+STO041,Chicago IL,10x20 Drive-Up,87.0,340,367,-7.4,113.7,111.4,-1.47,Hold with watchlist,340,0,0,86.9,0.6,153,22
+STO038,Phoenix AZ,5x10 Climate,85.8,104,100,4.0,113.0,112.0,-0.89,Hold with watchlist,104,0,0,84.4,0.4,143,23
+STO020,Orlando FL,10x20 Drive-Up,87.1,310,334,-7.2,75.0,111.4,-1.51,Hold with watchlist,310,0,0,79.6,0.3,44,6
+STO039,Los Angeles CA,5x10 Climate,85.8,102,108,-5.6,129.7,112.0,-0.67,Hold with watchlist,102,0,0,85.0,0.3,105,17
+STO034,Orlando FL,10x15 Drive-Up,89.1,244,252,-3.2,107.4,111.4,-1.35,Hold with watchlist,244,0,0,82.0,0.2,84,10
+STO012,San Diego CA,5x10 Climate,86.0,95,98,-3.1,90.1,112.0,-0.87,Hold with watchlist,95,0,0,85.2,0.1,100,16
+STO002,Boston MA,10x20 Drive-Up,87.5,359,367,-2.2,120.0,111.4,-1.11,Hold with watchlist,359,0,0,85.8,0.0,44,6
+STO012,San Diego CA,10x10 Climate,88.3,171,176,-2.8,90.3,111.8,-1.04,Hold with watchlist,171,0,0,85.3,0.0,58,7
+STO014,Charlotte NC,5x5 Interior,87.3,54,51,5.9,131.5,112.0,-0.56,Hold with watchlist,54,0,0,80.6,0.0,122,17
+STO016,Boston MA,5x5 Interior,87.5,51,51,0.0,110.4,112.0,-0.8,Hold with watchlist,51,0,0,89.4,0.0,76,10
+STO016,Boston MA,10x10 Climate,87.1,185,184,0.5,107.5,111.8,-0.95,Hold with watchlist,185,0,0,89.3,0.0,124,18
+STO020,Orlando FL,10x10 Climate,87.1,163,175,-6.9,97.2,111.8,-1.01,Hold with watchlist,163,0,0,83.3,0.0,155,22
+STO026,San Diego CA,10x10 Climate,88.4,198,191,3.7,117.8,111.8,-1.29,Hold with watchlist,198,0,0,88.0,0.0,130,17
+STO026,San Diego CA,10x15 Drive-Up,88.9,276,267,3.4,146.5,111.4,-0.99,Hold with watchlist,276,0,0,88.0,0.0,146,18
+STO027,Chicago IL,10x20 Drive-Up,87.3,334,323,3.4,90.0,111.4,-1.35,Hold with watchlist,334,0,0,79.8,0.0,87,12
+STO031,Northern New Jersey,10x20 Drive-Up,86.4,347,339,2.4,107.2,111.4,-1.43,Hold with watchlist,347,0,0,87.9,0.0,131,20
+STO034,Orlando FL,10x10 Climate,87.8,175,181,-3.3,112.8,111.8,-1.01,Hold with watchlist,175,0,0,82.0,0.0,164,22
+STO036,Dallas TX,10x20 Drive-Up,86.3,321,339,-5.3,103.9,111.4,-1.01,Hold with watchlist,321,0,0,87.8,0.0,147,23
+STO039,Los Angeles CA,10x15 Drive-Up,88.3,255,271,-5.9,130.8,111.4,-1.14,Hold with watchlist,255,0,0,84.9,0.0,52,6
+STO042,Charlotte NC,10x15 Drive-Up,88.9,249,250,-0.4,102.9,111.4,-1.26,Hold with watchlist,249,0,0,75.0,0.0,46,5
+STO042,Charlotte NC,10x20 Drive-Up,88.6,342,343,-0.3,114.2,111.4,-1.09,Hold with watchlist,342,0,0,75.0,0.0,140,17

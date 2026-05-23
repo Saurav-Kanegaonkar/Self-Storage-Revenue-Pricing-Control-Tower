@@ -1,0 +1,43 @@
+store_id,market,region,market_type,store_age,rentable_sqft,climate_control_share,current_occupancy_pct,demand_index,competitor_price_gap_pct,supply_pressure_index,data_quality_score,field_owner
+STO001,Philadelphia PA,Mid-Atlantic,Urban infill,Lease-up,74000,0.42,80.6,94.5,8.6,49.5,89.3,West field team
+STO002,Boston MA,Northeast,Urban infill,Lease-up,94000,0.54,77.9,129.9,-2.2,50.7,87.1,South field team
+STO003,Northern New Jersey,Northeast,Urban infill,Stabilized,88000,0.56,95.6,85.9,12.0,62.9,89.4,South field team
+STO004,Atlanta GA,Southeast,Suburban growth,Stabilized,90000,0.35,85.7,102.4,13.9,66.6,87.0,South field team
+STO005,Miami FL,Southeast,Urban infill,Stabilized,58000,0.41,85.9,107.7,-2.5,62.0,84.4,South field team
+STO006,Orlando FL,Southeast,Seasonal leisure,Stabilized,65000,0.53,79.5,84.6,-4.6,52.8,99,East field team
+STO007,Tampa FL,Southeast,Seasonal leisure,Mature,103000,0.64,89.6,86.9,-3.6,43.2,85.3,East field team
+STO008,Dallas TX,South Central,Suburban growth,Lease-up,90000,0.48,75.3,66,4.4,87.8,83.8,West field team
+STO009,Houston TX,South Central,Suburban growth,Lease-up,52000,0.33,75.1,108.1,5.6,74.9,79.9,West field team
+STO010,Phoenix AZ,West,Suburban growth,Lease-up,75000,0.34,70.6,74.9,-6.8,93,74.4,South field team
+STO011,Los Angeles CA,West,Urban infill,Lease-up,105000,0.47,76.2,72.6,10.9,56.4,84.7,West field team
+STO012,San Diego CA,West,Urban infill,Lease-up,64000,0.7,83.2,91.9,-2.6,63.6,92.8,North field team
+STO013,Chicago IL,Midwest,Mixed urban,Lease-up,78000,0.48,81.2,116.5,10.4,62.9,84.0,West field team
+STO014,Charlotte NC,Southeast,Suburban growth,Stabilized,85000,0.52,88.7,123.6,5.8,75.1,85.0,North field team
+STO015,Philadelphia PA,Mid-Atlantic,Urban infill,Lease-up,91000,0.51,72.8,115.6,4.2,61.8,83.9,East field team
+STO016,Boston MA,Northeast,Urban infill,Mature,87000,0.55,84.4,112.5,0.6,33.1,88.5,North field team
+STO017,Northern New Jersey,Northeast,Urban infill,Stabilized,78000,0.48,92.7,117.2,-7.8,73.3,99,North field team
+STO018,Atlanta GA,Southeast,Suburban growth,Mature,81000,0.59,82.0,83.9,4.9,63.2,85.4,South field team
+STO019,Miami FL,Southeast,Urban infill,Mature,102000,0.48,92.2,106.0,11.6,56.1,89.3,North field team
+STO020,Orlando FL,Southeast,Seasonal leisure,Stabilized,94000,0.78,83.4,87.4,-7.1,57.8,86.6,East field team
+STO021,Tampa FL,Southeast,Seasonal leisure,Mature,104000,0.49,98,88.4,-4.0,56.7,84.7,West field team
+STO022,Dallas TX,South Central,Suburban growth,Mature,86000,0.58,85.0,81.5,6.2,88.3,77.6,North field team
+STO023,Houston TX,South Central,Suburban growth,Mature,58000,0.58,86.8,85.3,11.8,86.0,74.8,North field team
+STO024,Phoenix AZ,West,Suburban growth,Mature,91000,0.51,92.8,96.8,-2.2,39.0,96.0,South field team
+STO025,Los Angeles CA,West,Urban infill,Stabilized,65000,0.6,98,124.3,-18,27.8,92.1,South field team
+STO026,San Diego CA,West,Urban infill,Lease-up,95000,0.62,83.2,135.1,3.5,32.1,86.8,South field team
+STO027,Chicago IL,Midwest,Mixed urban,Lease-up,70000,0.45,90.1,87.4,3.4,75.4,85.7,South field team
+STO028,Charlotte NC,Southeast,Suburban growth,Mature,72000,0.7,93.1,119.0,-11.0,80.9,82.2,West field team
+STO029,Philadelphia PA,Mid-Atlantic,Urban infill,Mature,91000,0.62,98,107.3,-6.3,71.2,83.8,West field team
+STO030,Boston MA,Northeast,Urban infill,Lease-up,78000,0.55,81.4,105.6,1.1,54.6,90.1,West field team
+STO031,Northern New Jersey,Northeast,Urban infill,Stabilized,52000,0.41,89.0,103.2,2.3,45.1,89.7,West field team
+STO032,Atlanta GA,Southeast,Suburban growth,Mature,78000,0.67,96.6,114.0,-6.6,32.5,92.9,West field team
+STO033,Miami FL,Southeast,Urban infill,Mature,85000,0.45,98,109.9,4.5,87.2,92.5,West field team
+STO034,Orlando FL,Southeast,Seasonal leisure,Mature,73000,0.49,88.6,102.8,-3.1,75.2,86.7,North field team
+STO035,Tampa FL,Southeast,Seasonal leisure,Lease-up,90000,0.46,77.6,100.3,16.1,76.5,86.4,North field team
+STO036,Dallas TX,South Central,Suburban growth,Lease-up,87000,0.52,81.3,94.7,-5.2,41.4,89.5,West field team
+STO037,Houston TX,South Central,Suburban growth,Lease-up,90000,0.43,73.0,100.7,0.1,88.5,88.0,East field team
+STO038,Phoenix AZ,West,Suburban growth,Lease-up,63000,0.59,80.6,104.1,4.3,34.1,80.6,North field team
+STO039,Los Angeles CA,West,Urban infill,Stabilized,78000,0.46,87.8,130.0,-5.9,46.4,85.5,East field team
+STO040,San Diego CA,West,Urban infill,Mature,103000,0.61,95.7,133.6,-4.0,54.1,77.7,West field team
+STO041,Chicago IL,Midwest,Mixed urban,Mature,84000,0.36,87.8,122.2,-7.3,35.0,86.8,West field team
+STO042,Charlotte NC,Southeast,Suburban growth,Stabilized,95000,0.54,87.8,104.1,-0.4,93,77.1,West field team

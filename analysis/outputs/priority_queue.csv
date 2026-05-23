@@ -1,26 +1,31 @@
-entity_id,entity_name,segment,priority_score,avg_risk_score,avg_quality_score,estimated_impact
-STO008,Store market 8,Core,100.67,50.0,80.4,887378
-STO027,Store market 27,Core,95.94,47.9,79.1,833668
-STO006,Store market 6,Strategic,94.23,53.6,80.1,765118
-STO020,Store market 20,Strategic,90.62,47.4,80.1,767537
-STO034,Store market 34,Growth,87.67,52.0,81.3,692116
-STO012,Store market 12,Strategic,86.79,54.8,80.3,651321
-STO002,Store market 2,Strategic,86.21,54.1,80.1,648476
-STO005,Store market 5,Strategic,85.51,48.4,81.0,692162
-STO019,Store market 19,Core,83.73,50.3,79.8,645604
-STO014,Store market 14,Growth,82.81,51.4,80.2,624847
-STO036,Store market 36,Core,81.74,50.0,80.8,624510
-STO030,Store market 30,Watch,81.38,47.2,82.9,652762
-STO016,Store market 16,Core,81.04,52.9,81.1,590360
-STO025,Store market 25,Core,80.85,50.3,80.5,608124
-STO024,Store market 24,Core,80.69,51.5,80.1,593580
-STO003,Store market 3,Watch,78.91,49.0,79.6,588300
-STO035,Store market 35,Growth,78.90,51.0,82.0,581556
-STO004,Store market 4,Growth,78.41,49.8,80.2,577018
-STO028,Store market 28,Watch,78.03,49.8,81.5,577438
-STO029,Store market 29,Strategic,78.01,53.5,80.7,541163
-STO022,Store market 22,Growth,77.01,51.1,81.3,550725
-STO017,Store market 17,Core,76.34,51.4,79.1,528970
-STO021,Store market 21,Core,75.44,50.5,82.5,539242
-STO018,Store market 18,Core,73.46,49.5,80.4,510884
-STO023,Store market 23,Watch,73.18,54.4,79.3,459956
+store_id,market,unit_type,occupancy_pct,current_rate,competitor_median_rate,competitor_gap_pct,lead_pace_index,seasonality_index,elasticity,recommended_action,recommended_rate,rate_change_pct,expected_annual_revenue_delta,confidence_score,priority_score,occupied_units,vacant_units
+STO025,Los Angeles CA,10x15 Drive-Up,99,229,279,-17.9,126.5,111.4,-0.92,Raise street rate,249,8.7,13215,88.8,56.1,122,2
+STO025,Los Angeles CA,10x20 Drive-Up,97.8,314,383,-18.0,124.7,111.4,-1.47,Raise street rate,338,7.8,15053,88.8,55.7,141,3
+STO008,Dallas TX,10x20 Drive-Up,74.9,311,298,4.4,64.4,111.4,-1.21,Protect occupancy,286,-8,27857,72.8,52.8,182,61
+STO035,Tampa FL,10x20 Drive-Up,76.6,378,326,16.0,97.4,111.4,-1.1,Hold rate and test promo,372,-1.5,14081,78.9,48.6,166,50
+STO025,Los Angeles CA,10x10 Climate,98.7,165,201,-17.9,129.0,111.8,-0.87,Raise street rate,179,8.6,7048,88.8,48.2,92,2
+STO025,Los Angeles CA,5x10 Climate,99.0,92,112,-17.9,146.0,112.0,-0.58,Raise street rate,100,9,4999,88.8,46.3,105,2
+STO011,Los Angeles CA,10x20 Drive-Up,74.2,334,301,11.0,79.6,111.4,-1.33,Protect occupancy,308,-7.7,14907,78.9,45.5,86,29
+STO015,Philadelphia PA,5x5 Interior,61.0,53,51,3.9,121.7,112.0,-0.42,Hold with watchlist,53,0,0,82.3,45.0,132,84
+STO033,Miami FL,10x15 Drive-Up,99,262,251,4.4,117.2,111.4,-1.1,Raise street rate,283,7.9,14132,83.1,38.6,131,2
+STO011,Los Angeles CA,10x15 Drive-Up,75.1,244,220,10.9,75.8,111.4,-0.94,Protect occupancy,226,-7.5,10046,78.3,38.1,107,35
+STO008,Dallas TX,5x5 Interior,66.9,45,43,4.7,60.5,112.0,-0.77,Protect occupancy,41,-8,3017,72.1,37.9,146,72
+STO040,San Diego CA,10x20 Drive-Up,97.1,357,372,-4.0,133.4,111.4,-1.04,Raise street rate,385,7.7,17016,80.1,37.8,116,3
+STO028,Charlotte NC,5x10 Climate,98.4,96,108,-11.1,125.0,112.0,-0.57,Raise street rate,104,8.2,8183,77.4,37.2,170,2
+STO035,Tampa FL,10x15 Drive-Up,79.2,276,238,16.0,95.5,111.4,-0.88,Hold rate and test promo,272,-1.5,8173,78.6,37.2,143,37
+STO006,Orlando FL,10x20 Drive-Up,75.0,313,328,-4.6,91.4,111.4,-1.02,Protect occupancy,292,-6.7,14742,89.9,37.1,123,40
+STO008,Dallas TX,10x15 Drive-Up,70.0,227,217,4.6,75.5,111.4,-1.06,Protect occupancy,209,-8,6308,74.5,36.3,52,22
+STO032,Atlanta GA,10x15 Drive-Up,97.5,244,261,-6.5,117.9,111.4,-1.08,Raise street rate,262,7.3,14705,90.6,36.1,158,3
+STO004,Atlanta GA,10x20 Drive-Up,77.4,375,329,14.0,95.1,111.4,-1.05,Hold rate and test promo,369,-1.5,6693,80.6,35.2,82,23
+STO011,Los Angeles CA,5x10 Climate,72.2,98,88,11.4,59.8,112.0,-0.72,Protect occupancy,90,-8,1600,75.7,34.1,45,17
+STO020,Orlando FL,10x15 Drive-Up,76.6,226,243,-7.0,84.5,111.4,-1.34,Protect occupancy,212,-6.4,14172,81.2,33.7,146,44
+STO015,Philadelphia PA,10x10 Climate,67.5,191,183,4.4,113.0,111.8,-0.79,Hold with watchlist,191,0,0,82.2,33.4,89,42
+STO025,Los Angeles CA,5x5 Interior,94.8,46,56,-17.9,129.8,112.0,-0.37,Raise street rate,49,5.9,1612,88.8,33.0,84,4
+STO035,Tampa FL,10x10 Climate,80.7,199,171,16.4,102.7,111.8,-1.08,Hold rate and test promo,196,-1.5,5481,79.3,32.0,130,31
+STO029,Philadelphia PA,10x10 Climate,97.8,173,185,-6.5,110.1,111.8,-1.13,Raise street rate,185,7.0,10572,80.4,31.7,175,4
+STO010,Phoenix AZ,5x5 Interior,68.4,43,46,-6.5,72.1,112.0,-0.65,Fix source before pricing,43,0,0,68.0,31.6,48,22
+STO028,Charlotte NC,10x15 Drive-Up,97.2,239,269,-11.2,118.6,111.4,-1.32,Raise street rate,256,7.1,5175,77.4,31.2,64,2
+STO008,Dallas TX,10x10 Climate,72.5,163,156,4.5,65.3,111.8,-0.84,Protect occupancy,150,-8,5639,72.9,30.9,85,32
+STO029,Philadelphia PA,10x20 Drive-Up,99,330,352,-6.2,102.9,111.4,-1.11,Narrow competitor gap,341,3.2,7522,80.5,30.8,133,2
+STO003,Northern New Jersey,10x20 Drive-Up,99,352,314,12.1,82.8,111.4,-1.41,Hold with watchlist,352,0,0,80.7,30.7,60,2
+STO040,San Diego CA,10x10 Climate,99,188,196,-4.1,132.9,111.8,-0.91,Raise street rate,205,9,7119,80.1,30.4,77,2

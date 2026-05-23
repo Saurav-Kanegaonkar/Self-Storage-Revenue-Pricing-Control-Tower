@@ -1,7 +1,7 @@
 # Status
 
-- Project: Self-Storage Revenue Pricing Control Tower
-- GitHub: https://github.com/Saurav-Kanegaonkar/Self-Storage-Revenue-Pricing-Control-Tower
-- Status: complete
-- Resume Link Ready: Yes
-- Last update: Created to locked pipeline standards with multiple data sources, analysis artifacts, scripts, screenshot, and distinct artifact framing.
+- Status: upgraded through the Portfolio Artifact Upgrade Workflow.
+- Target role fit: pricing analyst, revenue management, self-storage dynamic pricing.
+- Public README uses company-domain language rather than naming the target company.
+- Synthetic data is documented and reproducible from `scripts/score_operating_data.py`.
+- Screenshots are stored in `docs/images/` after visual verification.

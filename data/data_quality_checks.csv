@@ -1,0 +1,85 @@
+check_id,store_id,market,check_name,result,score,business_impact
+DQ001,STO001,Philadelphia PA,promo_code_mapping,Pass,82.2,Promotion flag missing from market feed
+DQ002,STO001,Philadelphia PA,lead_source_completeness,Pass,100,Web and phone leads not reconciled
+DQ003,STO002,Boston MA,unit_inventory_variance,Pass,85.5,PMS inventory total differs from pricing mart
+DQ004,STO002,Boston MA,lead_source_completeness,Pass,93.9,Web and phone leads not reconciled
+DQ005,STO003,Northern New Jersey,competitor_rate_freshness,Pass,94.4,Competitor scrape older than review threshold
+DQ006,STO003,Northern New Jersey,promo_code_mapping,Watch,78.6,Promotion flag missing from market feed
+DQ007,STO004,Atlanta GA,promo_code_mapping,Watch,76.1,Promotion flag missing from market feed
+DQ008,STO004,Atlanta GA,competitor_rate_freshness,Watch,81.2,Competitor scrape older than review threshold
+DQ009,STO005,Miami FL,competitor_rate_freshness,Pass,84.9,Competitor scrape older than review threshold
+DQ010,STO005,Miami FL,unit_inventory_variance,Watch,81.9,PMS inventory total differs from pricing mart
+DQ011,STO006,Orlando FL,competitor_rate_freshness,Pass,100,Competitor scrape older than review threshold
+DQ012,STO006,Orlando FL,unit_inventory_variance,Pass,95.8,PMS inventory total differs from pricing mart
+DQ013,STO007,Tampa FL,lead_source_completeness,Pass,91.8,Web and phone leads not reconciled
+DQ014,STO007,Tampa FL,unit_inventory_variance,Watch,78.5,PMS inventory total differs from pricing mart
+DQ015,STO008,Dallas TX,lead_source_completeness,Watch,81.5,Web and phone leads not reconciled
+DQ016,STO008,Dallas TX,promo_code_mapping,Pass,99.0,Promotion flag missing from market feed
+DQ017,STO009,Houston TX,unit_inventory_variance,Watch,72.7,PMS inventory total differs from pricing mart
+DQ018,STO009,Houston TX,promo_code_mapping,Pass,87.8,Promotion flag missing from market feed
+DQ019,STO010,Phoenix AZ,lead_source_completeness,Watch,81.2,Web and phone leads not reconciled
+DQ020,STO010,Phoenix AZ,promo_code_mapping,Pass,90.3,Promotion flag missing from market feed
+DQ021,STO011,Los Angeles CA,competitor_rate_freshness,Pass,87.4,Competitor scrape older than review threshold
+DQ022,STO011,Los Angeles CA,promo_code_mapping,Pass,99.1,Promotion flag missing from market feed
+DQ023,STO012,San Diego CA,competitor_rate_freshness,Pass,100,Competitor scrape older than review threshold
+DQ024,STO012,San Diego CA,lead_source_completeness,Pass,86.1,Web and phone leads not reconciled
+DQ025,STO013,Chicago IL,unit_inventory_variance,Pass,83.2,PMS inventory total differs from pricing mart
+DQ026,STO013,Chicago IL,competitor_rate_freshness,Watch,80.4,Competitor scrape older than review threshold
+DQ027,STO014,Charlotte NC,promo_code_mapping,Pass,89.7,Promotion flag missing from market feed
+DQ028,STO014,Charlotte NC,unit_inventory_variance,Pass,89.3,PMS inventory total differs from pricing mart
+DQ029,STO015,Philadelphia PA,promo_code_mapping,Pass,95.0,Promotion flag missing from market feed
+DQ030,STO015,Philadelphia PA,competitor_rate_freshness,Watch,78.7,Competitor scrape older than review threshold
+DQ031,STO016,Boston MA,lead_source_completeness,Pass,82.6,Web and phone leads not reconciled
+DQ032,STO016,Boston MA,unit_inventory_variance,Pass,93.9,PMS inventory total differs from pricing mart
+DQ033,STO017,Northern New Jersey,competitor_rate_freshness,Pass,100,Competitor scrape older than review threshold
+DQ034,STO017,Northern New Jersey,promo_code_mapping,Pass,100,Promotion flag missing from market feed
+DQ035,STO018,Atlanta GA,competitor_rate_freshness,Watch,71.1,Competitor scrape older than review threshold
+DQ036,STO018,Atlanta GA,promo_code_mapping,Pass,92.2,Promotion flag missing from market feed
+DQ037,STO019,Miami FL,lead_source_completeness,Pass,91.7,Web and phone leads not reconciled
+DQ038,STO019,Miami FL,promo_code_mapping,Watch,79.2,Promotion flag missing from market feed
+DQ039,STO020,Orlando FL,unit_inventory_variance,Pass,90.0,PMS inventory total differs from pricing mart
+DQ040,STO020,Orlando FL,competitor_rate_freshness,Pass,95.7,Competitor scrape older than review threshold
+DQ041,STO021,Tampa FL,promo_code_mapping,Pass,96.7,Promotion flag missing from market feed
+DQ042,STO021,Tampa FL,unit_inventory_variance,Pass,89.3,PMS inventory total differs from pricing mart
+DQ043,STO022,Dallas TX,lead_source_completeness,Watch,75.3,Web and phone leads not reconciled
+DQ044,STO022,Dallas TX,promo_code_mapping,Blocker,65.7,Promotion flag missing from market feed
+DQ045,STO023,Houston TX,competitor_rate_freshness,Watch,80.9,Competitor scrape older than review threshold
+DQ046,STO023,Houston TX,unit_inventory_variance,Watch,74.1,PMS inventory total differs from pricing mart
+DQ047,STO024,Phoenix AZ,promo_code_mapping,Pass,100,Promotion flag missing from market feed
+DQ048,STO024,Phoenix AZ,unit_inventory_variance,Watch,80.1,PMS inventory total differs from pricing mart
+DQ049,STO025,Los Angeles CA,lead_source_completeness,Pass,92.9,Web and phone leads not reconciled
+DQ050,STO025,Los Angeles CA,competitor_rate_freshness,Pass,88.5,Competitor scrape older than review threshold
+DQ051,STO026,San Diego CA,competitor_rate_freshness,Watch,81.0,Competitor scrape older than review threshold
+DQ052,STO026,San Diego CA,unit_inventory_variance,Pass,87.0,PMS inventory total differs from pricing mart
+DQ053,STO027,Chicago IL,unit_inventory_variance,Watch,76.4,PMS inventory total differs from pricing mart
+DQ054,STO027,Chicago IL,competitor_rate_freshness,Pass,97.3,Competitor scrape older than review threshold
+DQ055,STO028,Charlotte NC,promo_code_mapping,Blocker,63.2,Promotion flag missing from market feed
+DQ056,STO028,Charlotte NC,unit_inventory_variance,Pass,88.2,PMS inventory total differs from pricing mart
+DQ057,STO029,Philadelphia PA,lead_source_completeness,Watch,74.1,Web and phone leads not reconciled
+DQ058,STO029,Philadelphia PA,competitor_rate_freshness,Pass,93.1,Competitor scrape older than review threshold
+DQ059,STO030,Boston MA,competitor_rate_freshness,Pass,84.9,Competitor scrape older than review threshold
+DQ060,STO030,Boston MA,lead_source_completeness,Pass,100,Web and phone leads not reconciled
+DQ061,STO031,Northern New Jersey,unit_inventory_variance,Pass,92.1,PMS inventory total differs from pricing mart
+DQ062,STO031,Northern New Jersey,promo_code_mapping,Watch,72.8,Promotion flag missing from market feed
+DQ063,STO032,Atlanta GA,promo_code_mapping,Watch,75.4,Promotion flag missing from market feed
+DQ064,STO032,Atlanta GA,competitor_rate_freshness,Pass,87.8,Competitor scrape older than review threshold
+DQ065,STO033,Miami FL,unit_inventory_variance,Pass,90.9,PMS inventory total differs from pricing mart
+DQ066,STO033,Miami FL,promo_code_mapping,Pass,98.9,Promotion flag missing from market feed
+DQ067,STO034,Orlando FL,unit_inventory_variance,Pass,90.8,PMS inventory total differs from pricing mart
+DQ068,STO034,Orlando FL,lead_source_completeness,Watch,80.8,Web and phone leads not reconciled
+DQ069,STO035,Tampa FL,lead_source_completeness,Pass,88.2,Web and phone leads not reconciled
+DQ070,STO035,Tampa FL,unit_inventory_variance,Pass,91.7,PMS inventory total differs from pricing mart
+DQ071,STO036,Dallas TX,unit_inventory_variance,Watch,80.8,PMS inventory total differs from pricing mart
+DQ072,STO036,Dallas TX,lead_source_completeness,Pass,85.7,Web and phone leads not reconciled
+DQ073,STO037,Houston TX,competitor_rate_freshness,Pass,84.1,Competitor scrape older than review threshold
+DQ074,STO037,Houston TX,unit_inventory_variance,Pass,91.3,PMS inventory total differs from pricing mart
+DQ075,STO038,Phoenix AZ,promo_code_mapping,Pass,82.9,Promotion flag missing from market feed
+DQ076,STO038,Phoenix AZ,lead_source_completeness,Watch,78.9,Web and phone leads not reconciled
+DQ077,STO039,Los Angeles CA,lead_source_completeness,Watch,73.7,Web and phone leads not reconciled
+DQ078,STO039,Los Angeles CA,promo_code_mapping,Watch,78.5,Promotion flag missing from market feed
+DQ079,STO040,San Diego CA,lead_source_completeness,Blocker,61.2,Web and phone leads not reconciled
+DQ080,STO040,San Diego CA,unit_inventory_variance,Blocker,63.8,PMS inventory total differs from pricing mart
+DQ081,STO041,Chicago IL,unit_inventory_variance,Blocker,67.6,PMS inventory total differs from pricing mart
+DQ082,STO041,Chicago IL,lead_source_completeness,Pass,91.6,Web and phone leads not reconciled
+DQ083,STO042,Charlotte NC,promo_code_mapping,Blocker,69.7,Promotion flag missing from market feed
+DQ084,STO042,Charlotte NC,lead_source_completeness,Watch,80.6,Web and phone leads not reconciled

@@ -1,0 +1,55 @@
+feedback_id,store_id,market,unit_type,signal,field_note,pricing_response,status
+FF001,STO025,Los Angeles CA,10x15 Drive-Up,Access friction,Gate or elevator issue may be suppressing conversion until resolved.,Raise street rate,Incorporated
+FF002,STO025,Los Angeles CA,10x20 Drive-Up,Move-out pressure,Manager expects student or apartment turnover to raise move-outs next week.,Raise street rate,Incorporated
+FF003,STO008,Dallas TX,10x20 Drive-Up,Unit scarcity,Store has limited availability in the requested unit type.,Protect occupancy,Waiting on field confirmation
+FF004,STO035,Tampa FL,10x20 Drive-Up,Lead quality,Field team sees more quote shoppers than booked rentals this week.,Hold rate and test promo,Needs analyst review
+FF005,STO025,Los Angeles CA,10x10 Climate,Competitive concession,Local manager reports a nearby operator added first-month promotion.,Raise street rate,Needs analyst review
+FF006,STO025,Los Angeles CA,5x10 Climate,Unit scarcity,Store has limited availability in the requested unit type.,Raise street rate,Needs analyst review
+FF007,STO011,Los Angeles CA,10x20 Drive-Up,Access friction,Gate or elevator issue may be suppressing conversion until resolved.,Protect occupancy,Needs analyst review
+FF008,STO015,Philadelphia PA,5x5 Interior,Unit scarcity,Store has limited availability in the requested unit type.,Hold with watchlist,Waiting on field confirmation
+FF009,STO033,Miami FL,10x15 Drive-Up,Unit scarcity,Store has limited availability in the requested unit type.,Raise street rate,Incorporated
+FF010,STO011,Los Angeles CA,10x15 Drive-Up,Access friction,Gate or elevator issue may be suppressing conversion until resolved.,Protect occupancy,Incorporated
+FF011,STO008,Dallas TX,5x5 Interior,Competitive concession,Local manager reports a nearby operator added first-month promotion.,Protect occupancy,Incorporated
+FF012,STO040,San Diego CA,10x20 Drive-Up,Competitive concession,Local manager reports a nearby operator added first-month promotion.,Raise street rate,Needs analyst review
+FF013,STO028,Charlotte NC,5x10 Climate,Competitive concession,Local manager reports a nearby operator added first-month promotion.,Raise street rate,Incorporated
+FF014,STO035,Tampa FL,10x15 Drive-Up,Competitive concession,Local manager reports a nearby operator added first-month promotion.,Hold rate and test promo,Needs analyst review
+FF015,STO006,Orlando FL,10x20 Drive-Up,Move-out pressure,Manager expects student or apartment turnover to raise move-outs next week.,Protect occupancy,Waiting on field confirmation
+FF016,STO008,Dallas TX,10x15 Drive-Up,Competitive concession,Local manager reports a nearby operator added first-month promotion.,Protect occupancy,Waiting on field confirmation
+FF017,STO032,Atlanta GA,10x15 Drive-Up,Access friction,Gate or elevator issue may be suppressing conversion until resolved.,Raise street rate,Waiting on field confirmation
+FF018,STO004,Atlanta GA,10x20 Drive-Up,Move-out pressure,Manager expects student or apartment turnover to raise move-outs next week.,Hold rate and test promo,Incorporated
+FF019,STO011,Los Angeles CA,5x10 Climate,Move-out pressure,Manager expects student or apartment turnover to raise move-outs next week.,Protect occupancy,Incorporated
+FF020,STO020,Orlando FL,10x15 Drive-Up,Unit scarcity,Store has limited availability in the requested unit type.,Protect occupancy,Waiting on field confirmation
+FF021,STO015,Philadelphia PA,10x10 Climate,Competitive concession,Local manager reports a nearby operator added first-month promotion.,Hold with watchlist,Waiting on field confirmation
+FF022,STO025,Los Angeles CA,5x5 Interior,Competitive concession,Local manager reports a nearby operator added first-month promotion.,Raise street rate,Waiting on field confirmation
+FF023,STO035,Tampa FL,10x10 Climate,Move-out pressure,Manager expects student or apartment turnover to raise move-outs next week.,Hold rate and test promo,Needs analyst review
+FF024,STO029,Philadelphia PA,10x10 Climate,Unit scarcity,Store has limited availability in the requested unit type.,Raise street rate,Incorporated
+FF025,STO010,Phoenix AZ,5x5 Interior,Unit scarcity,Store has limited availability in the requested unit type.,Fix source before pricing,Waiting on field confirmation
+FF026,STO028,Charlotte NC,10x15 Drive-Up,Unit scarcity,Store has limited availability in the requested unit type.,Raise street rate,Incorporated
+FF027,STO008,Dallas TX,10x10 Climate,Lead quality,Field team sees more quote shoppers than booked rentals this week.,Protect occupancy,Needs analyst review
+FF028,STO029,Philadelphia PA,10x20 Drive-Up,Access friction,Gate or elevator issue may be suppressing conversion until resolved.,Narrow competitor gap,Needs analyst review
+FF029,STO003,Northern New Jersey,10x20 Drive-Up,Unit scarcity,Store has limited availability in the requested unit type.,Hold with watchlist,Needs analyst review
+FF030,STO040,San Diego CA,10x10 Climate,Unit scarcity,Store has limited availability in the requested unit type.,Raise street rate,Needs analyst review
+FF031,STO019,Miami FL,10x20 Drive-Up,Competitive concession,Local manager reports a nearby operator added first-month promotion.,Hold with watchlist,Incorporated
+FF032,STO013,Chicago IL,10x10 Climate,Move-out pressure,Manager expects student or apartment turnover to raise move-outs next week.,Hold with watchlist,Needs analyst review
+FF033,STO017,Northern New Jersey,5x10 Climate,Access friction,Gate or elevator issue may be suppressing conversion until resolved.,Raise street rate,Incorporated
+FF034,STO035,Tampa FL,5x10 Climate,Lead quality,Field team sees more quote shoppers than booked rentals this week.,Hold rate and test promo,Needs analyst review
+FF035,STO037,Houston TX,10x20 Drive-Up,Move-out pressure,Manager expects student or apartment turnover to raise move-outs next week.,Hold with watchlist,Incorporated
+FF036,STO032,Atlanta GA,10x20 Drive-Up,Access friction,Gate or elevator issue may be suppressing conversion until resolved.,Narrow competitor gap,Incorporated
+FF037,STO037,Houston TX,5x10 Climate,Unit scarcity,Store has limited availability in the requested unit type.,Hold with watchlist,Waiting on field confirmation
+FF038,STO040,San Diego CA,10x15 Drive-Up,Move-out pressure,Manager expects student or apartment turnover to raise move-outs next week.,Raise street rate,Incorporated
+FF039,STO011,Los Angeles CA,5x5 Interior,Lead quality,Field team sees more quote shoppers than booked rentals this week.,Protect occupancy,Waiting on field confirmation
+FF040,STO003,Northern New Jersey,10x10 Climate,Unit scarcity,Store has limited availability in the requested unit type.,Hold with watchlist,Needs analyst review
+FF041,STO033,Miami FL,10x20 Drive-Up,Unit scarcity,Store has limited availability in the requested unit type.,Raise street rate,Waiting on field confirmation
+FF042,STO028,Charlotte NC,10x20 Drive-Up,Access friction,Gate or elevator issue may be suppressing conversion until resolved.,Narrow competitor gap,Waiting on field confirmation
+FF043,STO032,Atlanta GA,5x10 Climate,Unit scarcity,Store has limited availability in the requested unit type.,Raise street rate,Needs analyst review
+FF044,STO014,Charlotte NC,10x20 Drive-Up,Lead quality,Field team sees more quote shoppers than booked rentals this week.,Raise street rate,Incorporated
+FF045,STO018,Atlanta GA,10x10 Climate,Competitive concession,Local manager reports a nearby operator added first-month promotion.,Protect occupancy,Needs analyst review
+FF046,STO009,Houston TX,10x10 Climate,Access friction,Gate or elevator issue may be suppressing conversion until resolved.,Hold with watchlist,Incorporated
+FF047,STO032,Atlanta GA,10x10 Climate,Move-out pressure,Manager expects student or apartment turnover to raise move-outs next week.,Narrow competitor gap,Incorporated
+FF048,STO037,Houston TX,10x15 Drive-Up,Lead quality,Field team sees more quote shoppers than booked rentals this week.,Hold with watchlist,Waiting on field confirmation
+FF049,STO011,Los Angeles CA,10x10 Climate,Competitive concession,Local manager reports a nearby operator added first-month promotion.,Protect occupancy,Needs analyst review
+FF050,STO040,San Diego CA,5x10 Climate,Competitive concession,Local manager reports a nearby operator added first-month promotion.,Raise street rate,Needs analyst review
+FF051,STO006,Orlando FL,5x10 Climate,Access friction,Gate or elevator issue may be suppressing conversion until resolved.,Protect occupancy,Incorporated
+FF052,STO037,Houston TX,10x10 Climate,Access friction,Gate or elevator issue may be suppressing conversion until resolved.,Hold with watchlist,Needs analyst review
+FF053,STO023,Houston TX,5x5 Interior,Move-out pressure,Manager expects student or apartment turnover to raise move-outs next week.,Fix source before pricing,Needs analyst review
+FF054,STO029,Philadelphia PA,10x15 Drive-Up,Move-out pressure,Manager expects student or apartment turnover to raise move-outs next week.,Narrow competitor gap,Incorporated
