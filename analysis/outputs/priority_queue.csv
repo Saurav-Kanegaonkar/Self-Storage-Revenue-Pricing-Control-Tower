@@ -1,0 +1,26 @@
+entity_id,entity_name,segment,priority_score,avg_risk_score,avg_quality_score,estimated_impact
+STO008,Store market 8,Core,100.67,50.0,80.4,887378
+STO027,Store market 27,Core,95.94,47.9,79.1,833668
+STO006,Store market 6,Strategic,94.23,53.6,80.1,765118
+STO020,Store market 20,Strategic,90.62,47.4,80.1,767537
+STO034,Store market 34,Growth,87.67,52.0,81.3,692116
+STO012,Store market 12,Strategic,86.79,54.8,80.3,651321
+STO002,Store market 2,Strategic,86.21,54.1,80.1,648476
+STO005,Store market 5,Strategic,85.51,48.4,81.0,692162
+STO019,Store market 19,Core,83.73,50.3,79.8,645604
+STO014,Store market 14,Growth,82.81,51.4,80.2,624847
+STO036,Store market 36,Core,81.74,50.0,80.8,624510
+STO030,Store market 30,Watch,81.38,47.2,82.9,652762
+STO016,Store market 16,Core,81.04,52.9,81.1,590360
+STO025,Store market 25,Core,80.85,50.3,80.5,608124
+STO024,Store market 24,Core,80.69,51.5,80.1,593580
+STO003,Store market 3,Watch,78.91,49.0,79.6,588300
+STO035,Store market 35,Growth,78.90,51.0,82.0,581556
+STO004,Store market 4,Growth,78.41,49.8,80.2,577018
+STO028,Store market 28,Watch,78.03,49.8,81.5,577438
+STO029,Store market 29,Strategic,78.01,53.5,80.7,541163
+STO022,Store market 22,Growth,77.01,51.1,81.3,550725
+STO017,Store market 17,Core,76.34,51.4,79.1,528970
+STO021,Store market 21,Core,75.44,50.5,82.5,539242
+STO018,Store market 18,Core,73.46,49.5,80.4,510884
+STO023,Store market 23,Watch,73.18,54.4,79.3,459956
